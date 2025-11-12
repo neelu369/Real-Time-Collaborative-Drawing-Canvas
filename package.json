@@ -2,7 +2,7 @@
   "name": "collaborative-canvas",
   "version": "1.0.0",
   "description": "Minimal real-time collaborative canvas",
-  "main": "server.js",
+  "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js"
   },
@@ -11,3 +11,4 @@
     "socket.io": "^4.7.3"
   }
 }
+
